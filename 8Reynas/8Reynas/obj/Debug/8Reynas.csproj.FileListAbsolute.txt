@@ -1,0 +1,10 @@
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\bin\Debug\8Reynas.exe.config
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\bin\Debug\8Reynas.exe
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\bin\Debug\8Reynas.pdb
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\8Reynas.csprojAssemblyReference.cache
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\_8Reynas.Properties.Resources.resources
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\8Reynas.csproj.GenerateResource.cache
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\8Reynas.csproj.CoreCompileInputs.cache
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\8Reynas.exe
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\8Reynas.pdb
+C:\Users\Eyizo\source\repos\8Reynas\8Reynas\obj\Debug\_8Reynas.Reynas.resources
